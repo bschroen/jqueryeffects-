@@ -1,0 +1,23 @@
+body{background-image:url(images/bdayback.jpg);
+	opacity:80%;}
+
+#balloons{position:absolute;
+		}
+
+#moreballoons{position:absolute;
+			  left:900px;}
+
+#confetti{background-image:url('images/confetti.png');
+		  position:absolute;
+		  width:100%;
+		  top:-200px;
+		  background-size:cover;}
+
+#happybday{left:400px;
+			width:40%;
+			position:absolute;}
+
+#cupcakes{position:absolute;
+		  left:400px;
+		  top:420px;
+		  width:40%;}
